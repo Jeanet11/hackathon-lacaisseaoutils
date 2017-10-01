@@ -45,7 +45,7 @@
       <img src="img/picto-culture.png" alt="picto-culture"/>
     </div>
 
-    <div class="col-md-5 text-center"><h2>ATELIER DU GRAFFITI</h2></div>
+    <div class="col-md-5 text-center"><h2>ATELIER  GRAFFITI</h2></div>
   </div>
 
 <div class="col-md-offset-3 col-md-6">
